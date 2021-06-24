@@ -1,0 +1,7 @@
+numpy
+pandas
+torch
+torchmetrics
+boto3
+pyathena
+python-dotenv
